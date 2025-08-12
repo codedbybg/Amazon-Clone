@@ -22,7 +22,7 @@ CSS3 – Flexbox, Grid, and Media Queries
  │    ├── amazone-clone
 
  📸 Screenshots
-
+ ![AmazonClone Screenshot](images/amazone-clone/Screenshot.png)
 
 📌 How to Use
 Clone the repository:
